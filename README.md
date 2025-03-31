@@ -77,7 +77,19 @@ With out-of-the-box ERC-7683 support, the Open Intents Framework standardizes cr
 
 ## Links
 
-[Nouwe Bridge](https://nouwe-bridge.vercel.app/)
+- [Nouwe Bridge](https://nouwe-bridge.vercel.app/)
+
+- https://github.com/nouwe-bridge/hyperlane-registry
+
+- https://github.com/nouwe-bridge/web
+
+- https://github.com/nouwe-bridge/solver
+
+- https://github.com/nouwe-bridge/intents-solidity
+
+- https://github.com/nouwe-bridge/node
+
+- https://github.com/nouwe-bridge/sc
 
 ## License
 MIT License
