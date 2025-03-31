@@ -3,7 +3,6 @@
 Nouwe Bridge is a cross-chain bridge utilizing open intents and Hyperlane, enabling seamless asset transfers between multiple testnets.
 
 ## Open Intents Framework
-**License:** MIT
 
 ### Description
 The Open Intents Framework is an open-source framework that provides a full stack of smart contracts, solvers, and UI with modular abstractions for settlement to build and deploy intent protocols across EVM chains.
