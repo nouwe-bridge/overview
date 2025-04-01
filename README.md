@@ -62,6 +62,19 @@ With out-of-the-box ERC-7683 support, the Open Intents Framework standardizes cr
 - **Implementation:** `0xaEABa1E5df2205BA1982D492DD463FA570366C8D`
 - **ProxyAdmin:** `0xb774750971A1FB91D76bA79620995163265a39B1`
 
+## Contracts Rollup
+
+- RollupProxy Contract created at address: 0x5Ef6096021D6C77eD7D35be65E3D5543A0a9C160
+- Inbox (proxy) Contract created at address: 0x8e17eb279E1f776fd5B545e275e71AA6B87514FA
+- Outbox (proxy) Contract created at address: 0x907c52831BB200abbca91ABb5Cadf2F1b47B9cB3
+- rollupEventInbox (proxy) Contract created at address: 0x55D1e3aA58f38c5aAE250a3506c14dE1D96711e7
+- challengeManager (proxy) Contract created at address: 0xBC85160e23A52108629b6b2516dFF108C0A3BE0E
+- AdminProxy Contract created at address: 0x2334D9272CBed785F39a58C14857456e7ceBECf4
+- SequencerInbox (proxy) created at address: 0x8f42CfCa48137Cf51018f5220B425075105F4B29
+- Bridge (proxy) Contract created at address: 0xD1b6601484DFfC5794cA3FaA48776704368DAb71
+- ValidatorUtils Contract created at address: 0x9C613B6928C8D66bb9cBfE2E6854De24B44e6a66
+- ValidatorWalletCreator Contract created at address: 0xf51f709F022623fe9295Af5cE927F51ce4dcc023
+
 ## Cappucino Testnet Details
 - **Chain ID:** `55214`
 - **Display Name:** `Cappucino Testnet`
