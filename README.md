@@ -62,7 +62,7 @@ With out-of-the-box ERC-7683 support, the Open Intents Framework standardizes cr
 - **Implementation:** `0xaEABa1E5df2205BA1982D492DD463FA570366C8D`
 - **ProxyAdmin:** `0xb774750971A1FB91D76bA79620995163265a39B1`
 
-## Contracts Rollup
+## Addresses Deployed Rollup
 
 - RollupProxy Contract created at address: 0x5Ef6096021D6C77eD7D35be65E3D5543A0a9C160
 - Inbox (proxy) Contract created at address: 0x8e17eb279E1f776fd5B545e275e71AA6B87514FA
